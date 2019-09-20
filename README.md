@@ -1,3 +1,3 @@
-Log in with check
-Sign Up
-Toggle/Navigation between the two.
+#Log in with check
+#Sign Up
+#Toggle/Navigation between the two.
